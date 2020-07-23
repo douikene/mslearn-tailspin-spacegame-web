@@ -64,7 +64,7 @@ section {
         width: 100%; }
 
 .pic .modal-body p {
-  margin-top: 25px; }
+  margin-top: 50px; }
 
 .leaderboard h2 {
   margin-bottom: 4rem; }
@@ -90,7 +90,7 @@ section {
 
 .leaderboard .leader-scores .high-score:nth-child(1) {
   background: #333;
-  color: white;
+  color: red;
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
   padding: 1rem 0;
