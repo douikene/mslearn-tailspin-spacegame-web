@@ -1,5 +1,5 @@
 body {
-  color: black;
+  color: whitesmoke;
   --link: #064EC0; }
 
 a {
@@ -46,7 +46,7 @@ section {
   font-weight: bold; }
 
 .screens {
-  background: #666; }
+  background: rgb(216, 13, 13); }
   .screens ul {
     padding: 0; }
     .screens ul li {
@@ -75,7 +75,7 @@ section {
 
 .leaderboard .leader-nav .nav-buttons {
   border: 1px solid #999;
-  border-radius: 10px;
+  border-radius: 50px;
   margin: 1rem;
   margin-top: 0; }
   .leaderboard .leader-nav .nav-buttons h4 {
